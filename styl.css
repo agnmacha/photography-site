@@ -10,12 +10,12 @@
 body {
     background: black url("img/bg.jpeg") no-repeat fixed 100%;
     color: #66CCCC;
-    font-family: 'Faustina', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
      }
 
 section {
     padding-bottom: 100px;
-	margin: auto;
+	margin:auto;
         }
 
 nav {
@@ -31,7 +31,7 @@ nav a {
     text-align: center;
     padding: 15px 20px;
     display: block;
-    font-family: 'Duru Sans', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
+	font-family: 'Amita',Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
     text-decoration: none;
       }
 
@@ -40,7 +40,7 @@ nav a:hover {
 			}
 
 h1 {
-    font-family: 'Dancing Script', "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", sans-serif;
+    font-family: 'Autour One',Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
     font-size: 100px;
     color: #99CCCC;
     text-align: center;
@@ -50,16 +50,17 @@ h1 {
     transform: translate(-50%, -50%);
    }
 
-h2 {
-    font-family: 'Elsie', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
-    font-size: 40px !important;
-    text-align: left;
-	}
+h2
+{
+	font-size: 50px;
+	text-align: left;
+	font-family: 'Akronim',Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman" ,sans-serif;
+}
 
 h4 {
 	text-align: center;
-	font-size: 30px;
-	font-family: 'Elsie', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
+	font-size: 35px;
+	font-family: 'Courgette',Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", sans-serif;
 	margin-left: 20px;
    }
 
