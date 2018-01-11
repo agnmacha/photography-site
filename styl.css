@@ -192,26 +192,26 @@ footer {
     font-size: 20px;
 	   }
 
-@media (max-width: 1200px){
+@media only screen and (max-width: 1200px){
 	.gallery { max-width: 90%;
 		       margin-left:5%;
 	         }
 						  }
 
-@media (max-width: 1130px){
+@media only screen and (max-width: 1130px){
 	h1{font-size:70px}
 	.gallery { max-width: 70%;
 		       margin-left:15%;
 	         }
 					 	  }
 
-@media (max-width: 922px){
+@media only screen and (max-width: 922px){
     .gallery { max-width: 90%;
 		       margin-left:5%;
 	         }
 						  }
 
-@media (max-width: 762px) {
+@media only screen and (max-width: 762px) {
 	h1{ font-size: 60px}
 	h3 {font-size: 15px}
 	p { font-size: 20px}
@@ -226,7 +226,7 @@ footer {
 	.column { width: 50%;
             }
 						  }						  
-@media (max-width:500px){
+@media only screen and (max-width:500px){
 	h1{ font-size: 40px }
 	h4{ font-size:25px}
 	.card { max-width: 400px;
