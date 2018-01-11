@@ -241,8 +241,9 @@ footer {
 	nav a{ float:none;
 	       height: auto;
 	     }
-	section {margin-top:150px;
+	section {margin-top:170px;
             }
+	h1{ margin-top: 170px;}
  						}
 
 
